@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waleyeldeen</h1>
-<h3 align="center">A Passionate Engineering Student from Egypt</h3>
-
+[<h3 align="center">A Passionate Engineering Student from Egypt</h3>]: #
 - 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
